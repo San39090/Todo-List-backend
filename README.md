@@ -38,3 +38,7 @@ A RESTful API for managing tasks in a To-Do List application, built with **Node.
 ```bash
 git clone https://github.com/your-username/todo-backend.git
 cd todo-backend
+```
+
+## Environment Variables
+- .env file which includes the url of MongoDB that is used to connect the database.
